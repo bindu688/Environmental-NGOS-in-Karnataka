@@ -1,0 +1,5 @@
+{
+  "name": "ಕರ್ನಾಟಕ ಪರಿಸರ ಸಹಾಯಕ (Karnataka Environment Assistant)",
+  "description": "ಕರ್ನಾಟಕದಲ್ಲಿನ ಪರಿಸರ ಎನ್‌ಜಿಒಗಳ ಬಗ್ಗೆ ಮಾಹಿತಿ ಮತ್ತು ಸಂವಾದಾತ್ಮಕ, ಧ್ವನಿ-ಸಕ್ರಿಯ ಚಾಟ್‌ಬಾಟ್ ಒದಗಿಸುವ ಅಪ್ಲಿಕೇಶನ್. (An app providing information on environmental NGOs in Karnataka with an interactive, voice-enabled chatbot.)",
+  "requestFramePermissions": []
+}
